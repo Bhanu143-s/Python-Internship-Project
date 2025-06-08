@@ -34,7 +34,7 @@ This repository contains four mini Python projects completed as part of my inter
 
 ## 👨‍💻 Developer
 
-*Bhanu Banka*  
+*Banka Bhanodaya Patrudu*  
 Intern – Python Development  
 GWING Software Technology
 
